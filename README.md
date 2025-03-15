@@ -2,7 +2,7 @@
 https://ieltsonlinetests.com/zh-hans/collection/test202401
 ### 正文
 How the mind ages
-The way mental function changes is largely determined by three factors-mental lifestyle, the impact of chronic disease and flexibility of the mind.
+The way mental function changes is largely determined by three factors-mental lifestyle, the impact of chronic disease and flexibility of the mind.  
 factors-mental心理因素
 impact of chronic disease 慢性病
 flexibility of the mind 思维的灵活性
