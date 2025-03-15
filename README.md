@@ -13,7 +13,9 @@ Experiments have shown that younger monkeys consistently outperform their older 
 ```
 consistently outperform 持續表現出色  
 Formerly  以前
-deteriorate 退化
+deteriorate 退化  
+decline 衰退
+inevitable 不可避免的  
 ```
 
 Stanley Rapoport at the National Institute of Health in the United States measured the flow of blood in the brains of old and young people as they completed different tasks. Since blood flow reflects neural activity. Rapoport could compare which networks of neurons were the same, the neural networks they used were significantly different. The older subjects used different internal strategies to accomplish comparable results at the same time,'Rapoport says. At the Georgia Institute of Technology, psychologist Timothy Salthouse compared a group of fast and accurate typists of college age with another group in their 60s. Both groups typed 60 words a minute. The older typists, it turned out, achieved their speed with cunning little strategies that made them more efficient than their younger counterparts. They made fewer finger shifts, gaining a fraction of a second here and there. They also read ahead in the test. The neural networks involved in typing appear to have been reshaped to compensate for losses in motor skills or other age changes.
