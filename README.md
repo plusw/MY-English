@@ -54,6 +54,11 @@ mental couch potatoes 直译是 “思想上的沙发土豆”，指的是那些
 ```
 
 In his studies, Schaie detected a decline in mental function among individuals who underwent lengthy stays in hospital for chronic illness. He postulated it might be due to the mental passivity encouraged by hospital routine.
+```
+underwent lengthy 經歷了漫長的
+chronic illness 慢性病
+passivity 被动
+```
 
 One of the most profoundly important mental functions is memory. Memory exists in more than one form, what we call knowledge- facts- is what psychologists such as Harry Bahrick of Ohio Wesleyan University call semantic memory. Events, conversations and occurrences in time and space, on the other hand, make up episodic memory. It's true that episodic memory begins to decline when most people are in their 50s, but it's never perfect at any age.
 
