@@ -34,7 +34,14 @@ gaining a fraction of a second here and there  時不時地獲得一瞬間的時
 compensate for losses in motor skills or other age changes  彌補運動技能或其他年齡變化的損失
 ```
 
-In fact, there's evidence that deterioration in mental functions can actually be reversed. Neuropsychologist Marion Diamond at the University of California has shown that mental activity maks neurons sprout new dendrites* which establish connections with other neurons. The dendrites shrink when the mind is idle. For example,'when a rat is kept in isolation, the animal's brain shrinks, but if we put that rat with other rats in a large cage and give them an assortment of toys, we can show, after four days, significant differences in its brain.'says Diamond. After a month in the enriched surroundings, the whole cerebral cortex has expanded, as has its blood supply.'But even in the enriched surroundings, rats get bored unless the toys are varied. Animals are just like we are. They need stimulation,'says Diamond. A busy mental lifestyle keeps the human mind fit, says Warner Schaie of Penn State University. ‘People who regularly participate in challenging tasks retain their intellectual abilities better than mental couch potatoes.'
+In fact, there's evidence that deterioration in mental functions can actually be reversed. Neuropsychologist Marion Diamond at the University of California has shown that mental activity maks neurons sprout new dendrites* which establish connections with other neurons. The dendrites shrink when the mind is idle. For example,'when a rat is kept in isolation, the animal's brain shrinks, but if we put that rat with other rats in a large cage and give them an assortment of toys, we can show, after four days, significant differences in its brain.'says Diamond. After a month in the enriched surroundings, the whole cerebral cortex has expanded, as has its blood supply.'But even in the enriched surroundings, rats get bored unless the toys are varied. Animals are just like we are. They need stimulation,'says Diamond. A busy mental lifestyle keeps the human mind fit, says Warner Schaie of Penn State University. ‘People who regularly participate in challenging tasks retain their intellectual abilities better than mental couch potatoes.
+```
+deterioration 恶化
+reversed 反转
+Neuropsychologist 神经心理学家
+sprout new dendrites  长出新的树突
+establish 建立  
+```
 
 In his studies, Schaie detected a decline in mental function among individuals who underwent lengthy stays in hospital for chronic illness. He postulated it might be due to the mental passivity encouraged by hospital routine.
 
